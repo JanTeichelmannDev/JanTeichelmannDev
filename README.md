@@ -1,4 +1,7 @@
-## Mein erstes eigenes Repository
+## Current challenges and learning path:
+- Performant, fast and user-friendly RWD
+- GitHub and Git process best practices
+- JavaScript
 
 <!--
 **JanTeichelmannDev/JanTeichelmannDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
